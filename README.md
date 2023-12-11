@@ -1,25 +1,31 @@
 # Petlover
 
-
-## Preview
-
-### Home Page
+## Home Page
 ![Screenshot](homepage.png)
 
-### Search Bar Functionality
+## Category Navigation
+![Screenshot](category.png)
+
+## Specific Animal Page
+![Screenshot](specificpage.png)
+
+## Search Bar Functionality
 ![Screenshot](search.png)
 
-### Error Page
+## Error Page
 ![Screenshot](detailsnotfound.png)
 
+<details>
+    <summary>Descriptions</summary>
+    An adoption website that lets users view all the animal listings of available pets that are up for adoption. Website lets your view all the pets or search by categories. You can also see specific information regarding each pet in their perspective profile page.
+</details>
 
-## Description
-An adoption website that lets users view all the animal listings of available pets that are up for adoption. Website lets your view all the pets or search by categories. You can also see specific information regarding each pet in their perspective profile page.
+<details>
+    <summary>Language</summary>
+    Javascript
+</details>
 
-
-## Language
-Javascript
-
-
-## Frameworks
-React
+<details>
+    <summary>Frameworks</summary>
+    React
+</details>
