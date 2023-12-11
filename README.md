@@ -12,4 +12,4 @@ React
 ## Preview
 ![Screenshot](homepage.png)
 ![Screenshot](search.png)
-![Screenshot](detailsnotofound.png)
+![Screenshot](detailsnotfound.png)
