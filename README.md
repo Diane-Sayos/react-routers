@@ -1,5 +1,4 @@
 # Petlover
-***
 ---
 <hr/>
 <details>
@@ -16,9 +15,10 @@
     <summary>**Frameworks**</summary>
     React
 </details>
-***
+
 ---
 <hr/>
+
 ## Home Page
 ![Screenshot](homepage.png)
 
