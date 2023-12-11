@@ -13,7 +13,7 @@
 ![Screenshot](search.png)
 
 ## Error Page
-![Screenshot](detailsnotfound.png)
+![Screenshot](error.png)
 
 <details>
     <summary>Descriptions</summary>
