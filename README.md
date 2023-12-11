@@ -7,12 +7,12 @@
 
 <details>
     <summary>Language</summary>
-    **Javascript**
+    Javascript
 </details>
 
 <details>
     <summary>Frameworks</summary>
-    **React**
+    React
 </details>
 
 
