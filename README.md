@@ -7,10 +7,10 @@
 
 <details>
     <summary>Tech Stack</summary>
-    Javascript
-    React
-    HTML
-    CSS
+    Javascript ||
+    React ||
+    HTML ||
+    CSS ||
     Flexbox
 </details>
 
