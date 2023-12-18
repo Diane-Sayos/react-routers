@@ -6,13 +6,12 @@
 </details>
 
 <details>
-    <summary>Language</summary>
+    <summary>Tech Stack</summary>
     Javascript
-</details>
-
-<details>
-    <summary>Frameworks</summary>
     React
+    HTML
+    CSS
+    Flexbox
 </details>
 
 
